@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name AdaptaddorCubeCell-rescue)(type Legacy)(uri ${KIPRJMOD}/AdaptaddorCubeCell-rescue.lib)(options "")(descr ""))
-  (lib (name custom)(type Legacy)(uri D:/Dropbox/reserca/etopia/diseños/kicad/CubeCell_Pajaros/Heltec.lib)(options "")(descr ""))
-  (lib (name _sensors)(type Legacy)(uri ${KIPRJMOD}/_sensors.lib)(options "")(descr ""))
-)
